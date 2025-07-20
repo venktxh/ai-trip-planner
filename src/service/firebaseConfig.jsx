@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAYr_hw9BEkT57d10dotDzdGGLr5KFCkUc",
+  apiKey: "YOUR_id",
   authDomain: "ai-planner-3e27b.firebaseapp.com",
   projectId: "ai-planner-3e27b",
   storageBucket: "ai-planner-3e27b.appspot.com",  // ✅ FIXED
