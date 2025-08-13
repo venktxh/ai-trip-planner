@@ -11,10 +11,10 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-🗺️ AI Trip Planner
+**🗺️ AI Trip Planner**
 An AI-powered trip planning application that generates personalized travel itineraries with hotel recommendations and allows users to save trips for future reference. Built with Node.js for backend connections, Firebase for trip storage, Google OAuth for authentication, and Google Gemini API for AI-powered trip generation.
 
-🚀 Features
+**🚀 Features**
 AI-Generated Itineraries – Tailored day-by-day plans based on destination, budget, and group size.
 
 Hotel Recommendations – AI suggests hotels matching your budget and location.
@@ -27,7 +27,7 @@ Realtime Data Storage – Trip details are securely stored and accessible anytim
 
 Fast Backend – Node.js + Express.js for smooth API connections.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 Backend: Node.js, Express.js
 
 AI Integration: Google Gemini API
@@ -36,20 +36,8 @@ Authentication: Google OAuth 2.0
 
 Database: Firebase Firestore
 
-Hosting: (Your hosting choice, e.g., Vercel, Firebase Hosting, etc.)
-
-📂 Project Structure
-php
-Copy
-Edit
-ai-trip-planner/
-│── backend/          # Node.js + Express backend
-│── firebase/         # Firebase config and database logic
-│── routes/           # API routes for trip generation & saving trips
-│── public/           # Static assets (if any)
-│── README.md         # Project documentation
-⚙️ Setup & Installation
-1️⃣ Clone the repository
+**⚙️ Setup & Installation**
+****1️⃣ Clone the repository****
 bash
 Copy
 Edit
